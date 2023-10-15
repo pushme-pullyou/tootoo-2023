@@ -17,32 +17,18 @@ Try
 * https://github.com/Ionaru/easy-markdown-editor
 
 
-## Text you can include in read me files
-
-<details open >
-
-<summary> Things you can do using this script</summary>
-
-* Click the three bars( 'hamburger menu icon' ) to slide the menu in and out
-* Click the GitHub Octocat icon to view or edit the source code on GitHub
-* Click on title to reload te page
-* Press Control-U/Command-Option-U to view the source code
-* Press Control-Shift-J/Command-Option-J to see if the JavaScript console reports any errors
-
-</details>
-
 ## To Do / Wish List
-
 
 
 ## Issues
 
+* 2023-10-14 ~ Decide where the tootoo agenda really belongs: here or in tootoo folder
 
 ## Change Log
 
 ### 2023-10-14
 
-* Install tootoo 2923
+* Install tootoo 2023
 * Move ToDo items to TooToo
 
 ### 2023-10-13

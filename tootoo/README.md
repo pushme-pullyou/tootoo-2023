@@ -27,11 +27,10 @@ _"Templates Read Me" in a resizable window_
 
 ## To Do / Wish List
 
-* 2023-10-14 ~ Move tooToo 2023 to its own repo
-* 2023-10-14 ~ Fix history 404 errors
-* 2023-10-13 ~ Update relevant read me files
+* 2023-10-14 ~ Add tootoo to pushme-pullyou/assets
+* 2023-10-14 ~ Find text in file title
+* 2023-10-14 ~ Cursor keys to load next file in menu
 * 2023-10-13 ~ Check if follows Win11 light and dark mode
-* 2023-10-13 ~ Fix open as single file not working
 * 2023-10-13 ~ Add edit file and save to GitHub
 * 2023-10-13 ~ Hamburger menu that is out of the way
 
@@ -43,6 +42,14 @@ _"Templates Read Me" in a resizable window_
 
 ## Change Log
 
+### 2023-10-14
+
+The previous tootoo tried to abstract and centralize too much. This version is a simpler template that can be copied and pasted into a new repo. It is a work in progress.
+
+* 2023-10-14 ~ Move tooToo 2023 to its own repo
+* 2023-10-14 ~ Fix history 404 errors
+* 2023-10-13 ~ Fix open as single file not working
+* 2023-10-13 ~ Update relevant read me files
 
 ### 2023-10-13
 
